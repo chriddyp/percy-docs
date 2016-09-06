@@ -18,7 +18,6 @@ Select your CI service to get started:
 * [Codeship](/docs/setup/codeship)
 * [Drone](/docs/setup/drone)
 * [Semaphore](/docs/setup/semaphore)
-* [Other](/docs/setup/other)
 
 ## Clients
 
